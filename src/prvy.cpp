@@ -13,7 +13,7 @@
 using namespace std;
 
 
-//git
+//git branch
 
 class ProstaKruznica {
 public:
