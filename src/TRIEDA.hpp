@@ -9,6 +9,7 @@
 #define TRIEDA_HPP_
 
 
+
 class Kocka
 {
 public:
